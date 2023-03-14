@@ -1,0 +1,8 @@
+@inproceedings{REPO-290,
+    author = "Nakajima, Kazuki and Shudo, Kazuyuki",
+    booktitle = "2022 IEEE 38th International Conference on Data Engineering (ICDE)",
+    doi = "10.1109/ICDE53745.2022.00065",
+    pages = "01-14",
+    title = "{Social Graph Restoration via Random Walk Sampling}",
+    year = "2022"
+}
